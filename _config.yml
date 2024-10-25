@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tomas Nobrega"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Tomas Nobrega"
 description              : &description "personal description"
 url                      : https://www.tomasnobrega.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "tomasnobrega/tomasnobrega.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tomas Nobrega"
   pronouns         : # example: "she/her"  
   bio              : "Finance Ph.D. Candidate"
   location         : "Planet Earth"

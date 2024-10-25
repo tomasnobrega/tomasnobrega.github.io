@@ -5,8 +5,8 @@
 .masthead {
   position: fixed;
   background: white;
-  border-bottom: 1px solid $border-color;
-  height: $masthead-height;
+  border-bottom: none; //1px solid $border-color;
+  height: 0; //$masthead-height;
   top: 0;
   width: 100%;
 
@@ -19,7 +19,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 0; //1em 1em 1em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
