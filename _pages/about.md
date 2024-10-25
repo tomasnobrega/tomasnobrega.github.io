@@ -14,7 +14,7 @@ Hi! I am Tomas, a Finance Ph.D. student at [Insper](https://www.insper.edu.br), 
   - In corporate bonds
 - How does financial development influence the real economy
 
-Before starting my Ph.D., I launched one of [Brazil's largest high-school scholarship program](https://www.institutosomos.org/somos-futuro/) for low-income students, now benefitingTh over 750 students in 120 cities. I also worked in mergers and acquisitions, where I valued multiple business and led the integration of a newly acquired business in Rondonópolis, an agricultural hub in Brazil. Additionally, I supported a high-growth startup, overseeing its back-office structure during rapid expansion and funding rounds. Just before my Ph.D., I fulfilled a personal dream by running my own bakery.  
+Before starting my Ph.D., I launched one of [Brazil's largest high-school scholarship program](https://www.institutosomos.org/somos-futuro/) for low-income students, now benefiting over 750 students in 120 cities. I also worked in mergers and acquisitions, where I valued multiple business and led the integration of a newly acquired business in Rondonópolis, an agricultural hub in Brazil. Additionally, I supported a high-growth startup, overseeing its back-office structure during rapid expansion and funding rounds. Just before my Ph.D., I fulfilled a personal dream by running my own bakery.  
 
 I am also counsellor for [Base Dos Dados](https://basedosdados.org/), Brazil's data lake of public information.
 
