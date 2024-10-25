@@ -41,7 +41,7 @@ I am also counsellor for [Base Dos Dados](https://basedosdados.org/), Brazil's d
 
 ## Education
 
-### Insper University
+### Insper
 
 São Paulo, Brazil.  
 Ph.D. in Finance (Expected December 2025).  
