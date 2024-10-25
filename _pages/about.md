@@ -41,12 +41,12 @@ In this project we are interested in the relationship between the development of
 
 ### Insper University
 São Paulo, Brazil.  
-Degree: Ph.D. in Finance (Expected December 2025).
+Degree: Ph.D. in Finance (Expected December 2025).  
 Visiting student at Massachusetts Institute of Technology (MIT) for one year (2024).  
 
 ### University of Sao Paulo (USP)
 São Paulo, Brazil.  
-Degree: B.A. in Economics (Completed in 2016).
+Degree: B.A. in Economics (Completed in 2016).  
 Visiting student at University of Groningen, Netherlands (6 months in 2015).
 
 ---
