@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Tomas Nobrega"
 title_separator          : "-"
 name                     : &name "Tomas Nobrega"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Tomas Nobrega"
   pronouns         : # example: "she/her"  
   bio              : "Finance Ph.D. Candidate"
-  location         : "Planet Earth"
+  location         : "Earth"
   employer         : "Insper University"
   uri              : # URL
   email            : "tomasdanobrega@gmail.com" 
