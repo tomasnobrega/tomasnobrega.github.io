@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Tomas, a Finance Ph.D. student at Insper University, currently visiting MIT. I expect to graduate in December 2025. I’m curious about:
+Hi! I am Tomas, a Finance Ph.D. student at [Insper](https://www.insper.edu.br), currently visiting MIT's Finance Department. I expect to graduate in December 2025. My research focuses on:
 
-- What drives assets returns?
-  - In emerging markets?
-  - In corporate bonds?
-- How does financial development influence the real economy?
+- What drives assets returns, especially
+  - In emerging markets
+  - In corporate bonds
+- How does financial development influence the real economy
 
-Before starting my Ph.D., I launched one of [Brazil's largest high-school scholarship program](https://www.institutosomos.org/somos-futuro/) for low-income students, now present in over 120 cities with over 750 students. I also lived in Rondonopolis, an agricultural city in Brazil, where I integrated the back-office of a newly acquired business I had previously evaluated, gaining valuable experience with culturally diverse people in a unique region. And, just before my Ph.D., I fulfilled a personal dream by running my own bakery.
+Before starting my Ph.D., I launched one of [Brazil's largest high-school scholarship program](https://www.institutosomos.org/somos-futuro/) for low-income students, now benefitingTh over 750 students in 120 cities. I also worked in mergers and acquisitions, where I valued multiple business and led the integration of a newly acquired business in Rondonópolis, an agricultural hub in Brazil. Additionally, I supported a high-growth startup, overseeing its back-office structure during rapid expansion and funding rounds. Just before my Ph.D., I fulfilled a personal dream by running my own bakery.  
+
+I am also counsellor for [Base Dos Dados](https://basedosdados.org/), Brazil's data lake of public information.
 
 ---
 
@@ -22,39 +24,42 @@ Before starting my Ph.D., I launched one of [Brazil's largest high-school schola
 
 ### [Firm Characteristics and Stock Returns in Brazil](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4801117)
 
-##### With Ruy Ribeiro, Josue Costa, Mohammed Kaebi and Igor Martins.
-
-__Abstract:__ We investigate the impact of firm characteristics on stock returns in the Brazilian financial market, considering a long list of characteristics found be relevant in the U.S. market. Employing Fama-MacBeth regressions, alongside machine learning techniques, we examine over 24 firm-level characteristics. Our findings highlight the stronger influence of price-related metrics, such as momentum, liquidity, size and volatility, over accounting variables. We also explore the robustness of these characteristics through the construction of various portfolios, revealing significant alphas in multiple portfolio construction methods and substantial out-of-sample performance.
+**With Ruy Ribeiro, Josue Costa, Mohammed Kaebi and Igor Martins.**  
+**Abstract:** We investigate the impact of firm characteristics on stock returns in the Brazilian financial market, considering a long list of characteristics found be relevant in the U.S. market. Employing Fama-MacBeth regressions, alongside machine learning techniques, we examine over 24 firm-level characteristics. Our findings highlight the stronger influence of price-related metrics, such as momentum, liquidity, size and volatility, over accounting variables. We also explore the robustness of these characteristics through the construction of various portfolios, revealing significant alphas in multiple portfolio construction methods and substantial out-of-sample performance.
 
 ### Betting on Betas but against Duration
-#### With Lira Mota and Luca Mertens
+
+**With Lira Mota and Luca Mertens**  
 (Coming soon!)
 
 ### Development of Finance: Human Capital Perspective
-#### With Jiageng Liu
 
-In this project we are interested in the relationship between the development of the financial sector in Brazil and the development of the real economy. Particularly, we are looking at the employment dataset of RAIS and issuance information.
+**With Jiageng Liu**  
+**Idea:** In this project we are interested in the relationship between the development of the financial sector in Brazil and the development of the real economy. Particularly, we are looking at the employment dataset of RAIS and issuance information.
 
 ---
 
 ## Education
 
 ### Insper University
+
 São Paulo, Brazil.  
-Degree: Ph.D. in Finance (Expected December 2025).  
-Visiting student at Massachusetts Institute of Technology (MIT) for one year (2024).  
+Ph.D. in Finance (Expected December 2025).  
+Visiting student at Massachusetts Institute of Technology (MIT) in 2024.  
 
 ### University of Sao Paulo (USP)
+
 São Paulo, Brazil.  
-Degree: B.A. in Economics (Completed in 2016).  
-Visiting student at University of Groningen, Netherlands (6 months in 2015).
+B.A. in Economics (Completed in 2016).  
+Visiting student at University of Groningen, Netherlands, in 2015.
 
 ---
 
 ## Skills
-Software: R, Python, Excel, SQL.  
-Managing large financial datasets.  
-Languages: Portuguese (Native), Spanish (Fluent), English (Fluent).
+
+* Expertise: Asset Pricing, Programming, Statistical Modeling and Implementing, Machine Learning, Big-Data (with a focus on financial datasets), Valuation.  
+* Software: R, Python, Excel, SQL.  
+* Languages: Portuguese (Native), Spanish (Fluent), English (Fluent).
 
 ---
 
