@@ -21,7 +21,7 @@ repository               : "tomasnobrega/tomasnobrega.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.png"  # Update this line
   name             : "Tomas Nobrega"
   pronouns         : # example: "she/her"  
   bio              : "Finance Ph.D. Candidate"
@@ -72,6 +72,12 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+
+  # CV link
+  links:
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/files/cv.pdf"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -347,3 +353,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+

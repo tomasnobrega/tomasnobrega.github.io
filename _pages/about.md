@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Tomas, a Finance Ph.D. student at Insper University, currently visiting MIT. I anticipate graduating in December 2025. I’m curious about:
+Hi! I’m Tomas, a Finance Ph.D. student at Insper University, currently visiting MIT. I expect to graduate in December 2025. I’m curious about:
 
 - What drives assets returns?
   - In emerging markets?

@@ -179,6 +179,11 @@
       display: none;
     }
   }
+
+  .cv-link {
+    font-weight: bold;
+    text-decoration: underline;
+  }
 }
 
 .author__urls {
@@ -255,6 +260,15 @@
 
     &:hover {
       text-decoration: underline;
+    }
+
+    &[href$=".pdf"] {
+      font-weight: bold;
+      &::after {
+        content: " (PDF)";
+        font-size: 0.8em;
+        font-weight: normal;
+      }
     }
   }
 }
