@@ -14,7 +14,7 @@ Hi! I’m Tomas, a Finance Ph.D. student at Insper University, currently visitin
   - In corporate bonds?
 - How does financial development influence the real economy?
 
-Before starting my Ph.D., I worked on projects of which I'm really proud. I launched one of [Brazil's largest high-school scholarship program](https://www.institutosomos.org/somos-futuro/) for low-income students, now present in over 120 cities across 21 states with over 750 students impacted. I spent 6 months in Rondonopolis, a small but important agricultural city in rural Mato Grosso, where I helped integrate CIE, a newly acquired school that I had previously evaluated. This experience allowed me to immerse myself in that unique region of my country. Just before starting my Ph.D., I fulfilled a personal dream by running my own bakery, which taught me valuable lessons in entrepeneurship and management.
+Before starting my Ph.D., I launched one of [Brazil's largest high-school scholarship program](https://www.institutosomos.org/somos-futuro/) for low-income students, now present in over 120 cities with over 750 students. I also lived in Rondonopolis, an agricultural city in Brazil, where I integrated the back-office of a newly acquired business I had previously evaluated, gaining valuable experience with culturally diverse people in a unique region. And, just before my Ph.D., I fulfilled a personal dream by running my own bakery.
 
 ---
 
