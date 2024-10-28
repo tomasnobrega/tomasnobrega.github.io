@@ -44,7 +44,7 @@ I am also Audit Committee Member for [Base Dos Dados](https://basedosdados.org/)
 ### Insper
 
 Ph.D. in Finance (Expected December 2025).  
-Advisor: Ruy Ribeiro.
+Advisor: Ruy Ribeiro.  
 São Paulo, Brazil.  
 Visiting student at Massachusetts Institute of Technology (MIT) in 2024.  
 
