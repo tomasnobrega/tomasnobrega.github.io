@@ -16,7 +16,7 @@ Hi! I am Tomas, a Finance Ph.D. student at [Insper](https://www.insper.edu.br), 
 
 Before starting my Ph.D., I launched one of [Brazil's largest high-school scholarship program](https://www.institutosomos.org/somos-futuro/) for low-income students, now benefiting over 750 students in 120 cities. I also worked in mergers and acquisitions, where I valued multiple business and led the integration of a newly acquired business in Rondonópolis, an agricultural hub in Brazil. Additionally, I supported a high-growth startup, overseeing its back-office structure during rapid expansion and funding rounds. Just before my Ph.D., I fulfilled a personal dream by running my own bakery.  
 
-I am also counsellor for [Base Dos Dados](https://basedosdados.org/), Brazil's data lake of public information.
+I am also Audit Committee Member for [Base Dos Dados](https://basedosdados.org/), Brazil's data lake of public information.
 
 ---
 
@@ -43,23 +43,24 @@ I am also counsellor for [Base Dos Dados](https://basedosdados.org/), Brazil's d
 
 ### Insper
 
-São Paulo, Brazil.  
 Ph.D. in Finance (Expected December 2025).  
+Advisor: Ruy Ribeiro.
+São Paulo, Brazil.  
 Visiting student at Massachusetts Institute of Technology (MIT) in 2024.  
 
 ### University of Sao Paulo (USP)
 
-São Paulo, Brazil.  
 B.A. in Economics (Completed in 2016).  
+São Paulo, Brazil.  
 Visiting student at University of Groningen, Netherlands, in 2015.
 
 ---
 
 ## Skills
 
-* Expertise: Asset Pricing, Programming, Statistical Modeling and Implementing, Machine Learning, Big-Data (with a focus on financial datasets), Valuation.  
-* Software: R, Python, Excel, SQL.  
-* Languages: Portuguese (Native), Spanish (Fluent), English (Fluent).
+- Expertise: Asset Pricing, Programming, Statistical Modeling and Implementing, Machine Learning, Big-Data (with a focus on financial datasets), Valuation.  
+- Software: Advanced: R, Python, Git, Excel, SQL. Intermediate: MATLAB.  
+- Languages: Portuguese (Native), Spanish (Fluent), English (Fluent).
 
 ---
 
