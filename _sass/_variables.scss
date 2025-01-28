@@ -28,6 +28,11 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
+/* Set Roboto as the global and header font family */
+$global-font-family         : "Roboto", $sans-serif;
+$header-font-family         : "Roboto", $sans-serif;
+$caption-font-family        : $serif;
+
 $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
@@ -62,11 +67,11 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : #fff;
+$background-color           : #FFF9DB;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$text-color                 : #004C4C;
+$border-color               : #004C4C;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
